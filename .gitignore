@@ -1,0 +1,7 @@
+/archive/
+/lib/
+.settings
+
+.DS_Store
+Thumbs.db
+.vscode
